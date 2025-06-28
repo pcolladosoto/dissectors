@@ -1,0 +1,8 @@
+# Ignore hidden files except selected ones
+.*
+!.gitignore
+
+# Ignore sample traffic captures
+*.pcap
+*.pcapng
+captures/
